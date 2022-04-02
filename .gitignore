@@ -1,6 +1,6 @@
 errors.log
 debug.log
 *.pdf
-coursera_practice/'.idea'
+coursera_practice/.idea
 coursera_practice/venv
 coursera_practice/main.py
